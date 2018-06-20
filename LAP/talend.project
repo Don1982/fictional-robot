@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_0DomIXRpEeioHdHg7Y0C6w" label="lap" description="" language="java" technicalLabel="LAP" creationDate="2018-06-20T01:57:55.986-0700" author="_0DomInRpEeioHdHg7Y0C6w" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Don1982/fictional-robot&quot;,&quot;login&quot;:&quot;Don1982&quot;,&quot;passwd&quot;:&quot;aheAru8cn4TIyezVPBOm6g==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ"/>
+  <TalendProperties:User xmi:id="_0DomInRpEeioHdHg7Y0C6w" login="admin@company.com" firstName="Admin" lastName="Admin" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
